@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+
+    <!-- MainActivity Strings -->
+    <string name="title_main">Your Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+
+    <!-- AddNoteActivity Strings -->
+    <string name="title_add_note">Add New Note</string>
+    <string name="note_name">Note Name</string>
+    <string name="note_content">Note Content</string>
+    <string name="save_note">Save Note</string>
+
+    <!-- DeleteNoteActivity Strings -->
+    <string name="title_delete_note">Delete Note</string>
+    <string name="delete_selected_note">Delete Selected Note</string>
+    <string name="select_note_to_delete">Select a note to delete</string>
+
+    <!-- Validation Strings -->
+    <string name="empty_name_warning">Note name cannot be empty!</string>
+    <string name="empty_content_warning">Note content cannot be empty!</string>
+</resources>
